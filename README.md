@@ -21,17 +21,6 @@ The goal: to develop a deep, working knowledge of C programming, memory handling
 
 ---
 
-## 🔧 Project Structure
-
-| File / Folder | Description |
-|---------------|-------------|
-| `libft.h`     | Header with all prototypes and includes |
-| `*.c`         | Implementation of each function |
-| `Makefile`    | Build and clean targets |
-| `ft_lst*.c` | Linked list operations: add, delete, iterate, map, etc. |
-
----
-
 ## 🧪 Compiling
 
 To build the static library:
